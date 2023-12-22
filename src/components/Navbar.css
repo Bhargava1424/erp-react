@@ -1,5 +1,7 @@
 /* src/components/Navbar.css */
-
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
 .navbar {
     display: flex;
     align-items: center;
