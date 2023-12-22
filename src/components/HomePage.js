@@ -23,7 +23,7 @@ const HomePage = () => {
       <header>
         <div className="logo-container">
           <img src="/9logo.jpg" alt="College ERP Logo" />
-          <h1>College ERP System</h1>
+          <h1>9 ERP System</h1>
         </div>
       </header>
 
